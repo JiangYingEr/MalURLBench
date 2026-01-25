@@ -8,3 +8,6 @@ As shown in the following figure, web agents' workflow is two-staged. First, as 
 <p align="center">
   <img src="image.png" width="1200"/>
 </p>
+
+## Benchmark Introduction
+MalURLBench covers 10 real-world scenarios: Package Tracking, Online Customer Service, Online Shopping Assistant, Food Delivery, Weather Information Assistant, Job Search, Music Recommendation, Short Video Recommendation, Daily News Updates, and Concert Information Service; 7 attack categories: Phishing, Malware Injection, Fraud, Hacked Websites (normal websites that were hacked), Information Theft, Remote Control, and Malicious Advertisement.
