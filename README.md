@@ -6,7 +6,7 @@ LLM-based web agents have attracted considerable interest in recent years. Howev
 
 As shown in the following figure, web agents' workflow is two-staged. First, as the brain of web agents, LLMs need to determine whether to accept a URL. Second, once this URL is accepted, the LLM invokes tools to visit the corresponding webpages and parse the content. As the beginning of the entire workflow, the security of stage 1 is of vital importance. **Only after agents are induced to trust a malicious URL can attackers use the webpage to launch more attacks**. **However, there have not been benchmarks evaluating the first stage's security**. Therefore, this paper aims to evaluate the security problems in stage 1.
 <p align="center">
-  <img src="image.png" width="1200"/>
+  <img src="image.png" width="800"/>
 </p>
 
 ## Benchmark Introduction
@@ -19,3 +19,6 @@ Each *.py file corresponds to a scenario. You can: a) directly use the malicious
 
 ## Results
 We find that many LLMs are hard to distinguish malicious URLs. We infere that **existing LLMs lack enough resilience when processing the unique URL structure**. We infer that there are two main reasons. The first is that **URLs are not common in the training data**. We believe that webpages are included in the training datasets. However, in normal cases, the nested URLs in webpages usually direct to other webpages belonging to the same website. As a result, their URL format is like ``\url{./img/pic1.jpg}'', lacking a complete structure. Even if some complete URLs are included, their scale is still insufficient, which causes existing LLMs lack an in-depth understanding of URLs. The second reason is that **the training datasets of the current models lack adversarial URLs**. This is because the attacks manipulating URLs to threaten LLMs are newly proposed, and there are no adversarial examples to make the model robust.
+<p align="center">
+  <img src="result" width="800"/>
+</p>
