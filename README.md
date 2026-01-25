@@ -14,3 +14,5 @@ MalURLBench covers 10 real-world scenarios: Package Tracking, Online Customer Se
 
 ## How to run
 ### 1. Install [MetaGPT](https://github.com/FoundationAgents/MetaGPT)
+### 2. Choose a code in Code_Summary
+Each *.py file corresponds to a scenario. You can: a) directly use the malicious URLs in Examples that we used; b) use the attack templates in Attack Templates and insert the website addresses you want. 
