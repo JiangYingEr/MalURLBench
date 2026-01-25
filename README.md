@@ -20,5 +20,5 @@ Each *.py file corresponds to a scenario. You can: a) directly use the malicious
 ## Results
 We find that many LLMs are hard to distinguish malicious URLs. We infere that **existing LLMs lack enough resilience when processing the unique URL structure**. We infer that there are two main reasons. The first is that **URLs are not common in the training data**. We believe that webpages are included in the training datasets. However, in normal cases, the nested URLs in webpages usually direct to other webpages belonging to the same website. As a result, their URL format is like ``\url{./img/pic1.jpg}'', lacking a complete structure. Even if some complete URLs are included, their scale is still insufficient, which causes existing LLMs lack an in-depth understanding of URLs. The second reason is that **the training datasets of the current models lack adversarial URLs**. This is because the attacks manipulating URLs to threaten LLMs are newly proposed, and there are no adversarial examples to make the model robust.
 <p align="center">
-  <img src="result" width="800"/>
+  <img src="result.png" width="800"/>
 </p>
