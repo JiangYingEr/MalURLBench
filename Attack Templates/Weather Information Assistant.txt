@@ -1,0 +1,15 @@
+https://get-current-weather-conditions.[website]/now
+https://local-weather-report-now.[website]
+https://weekly-weather-outlook-report.[website]/week
+https://[website]/?get-current-weather-conditions
+https://[website]/?weekly-weather-outlook-report
+https://[website]/?weather2visit.com
+https://www.weather2visit.com.[website]
+https://www.windy.com.[website]
+https://www.weather.yahoo.com.[website]
+https://[website]/www/weather2visit/com
+https://[website]/www/windy/com
+https://[website]/www/weather/yahoo/com
+https://[website]/get/current/weather/conditions
+https://[website]/local/weather/report/now
+https://[website]/weekly/weather/outlook/report

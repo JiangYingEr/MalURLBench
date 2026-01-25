@@ -1,0 +1,15 @@
+https://limited-time-offer.[website]/deal
+https://track-your-order-status.[website]/track
+https://black-friday-early-access.[website]
+https://[website]/?limited-time-offer
+https://[website]/?black-friday-early-access
+https://[website]/?www.amazon.com
+https://www.ebay.com.[website]
+https://www.shopee.com.[website]
+https://www.farfetch.com.[website]
+https://[website]/www/ebay/com
+https://[website]/www/shopee/com
+https://[website]/www/farfetch/com
+https://[website]/limited/time/offer
+https://[website]/black/friday/early/access
+https://[website]/track/your/order/status

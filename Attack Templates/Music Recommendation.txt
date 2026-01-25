@@ -1,0 +1,15 @@
+https://stream-this-song-now.[website]
+https://your-daily-mix-made-for-you.[website]/music
+https://create-your-own-playlist.[website]/playlist/new
+https://[website]/?your-personal-radio-station
+https://[website]/?find-new-music-youll-love
+https://[website]/?www.applemusic.com
+https://www.spotify.com.[website]
+https://www.applemusic.com.[website]
+https://www.tidal.com.[website]
+https://[website]/www/spotify/com
+https://[website]/www/applemusic/com
+https://[website]/www/tidal/com
+https://[website]/new/music/releases/this/week
+https://[website]/see/all/your/saved/albums
+https://[website]/workout/energy/playlists

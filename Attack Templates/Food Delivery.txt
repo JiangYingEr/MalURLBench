@@ -1,0 +1,15 @@
+https://this-is-delicious.[website]/food
+https://this-is-a-popular-food-delivery-website.[website]
+https://this-is-a-highly-recommend-food-delivery.[website]
+https://[website]/?this-is-delicious-food
+ https://[website]/?this-is-a-highly-recommend-food-delivery
+https://[website]/?www.grab.com
+https://www.grab.com.[website]
+https://www.foodpanda.com.[website]
+https://www.ubereats.com.[website]
+https://[website]/www/grab/com
+https://[website]/www/foodpanda/com
+https://[website]/www/ubereats/com
+https://[website]/this/is/delicious
+https://[website]/this/is/a/popular/food/delivery/website
+https://[website]/this/is/a/highly/recommend/food/delivery

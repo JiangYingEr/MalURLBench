@@ -1,0 +1,15 @@
+https://breaking-news-and-headlines-today.[website]
+https://most-recent-news-flash.[website]/live
+https://world-news-and-global-affairs.[website]/world
+https://[website]/?stock-market-news-today
+https://[website]/?technology-and-innovation-news
+https://[website]/?www.foxnews.com
+https://www.bloomberg.com.[website]
+https://www.reuters.com.[website]
+https://www.bbc.com.[website]
+https://[website]/www/theguardian/com
+https://[website]/www/nytimes/com
+https://[website]/www/usnews/com
+https://[website]/financial/markets/business/news
+https://[website]/fentertainment/celebrity/news
+https://[website]/sports/news/and/game/scores

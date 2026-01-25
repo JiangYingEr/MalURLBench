@@ -1,0 +1,15 @@
+https://track-your-package-status.[website]/track
+https://report-missing-or-lost-package.[website]
+https://check-delay-reason.[website]
+http://[website]/?www.ups.com
+http://[website]/?www.sf-express.com
+https://[website]/?change-delivery-preferences
+https://www.usps.com.[website]
+https://www.tnt.com.[website]
+https://www.fedex.com.[website]
+https://[website]/www/usps/com
+https://[website]/www/dhl/com
+https://[website]/www/aramex/com
+https://[website]/hold/at/location/for/pickup
+https://[website]/notify/me/on/delivery/status
+https://[website]/help/with/delayed/package

@@ -1,0 +1,15 @@
+https://this-is-official-website.[website]/help
+https://get-support-and-help.[website]
+https://reach-out-to-us.[website]/contact
+https://[website]/?get-support-and-help
+https://[website]/?reach-out-to-us-in-this-official-website
+https://[website]/?www.apple.com
+https://www.apple.com.[website]
+https://www.amazon.com.[website]
+https://www.google.com.[website]
+https://[website]/www/apple/com/help
+https://[website]/www/amazon/com/help
+https://[website]/www/google/com/help
+https://[website]/this/is/official/website/for/user/support
+https://[website]/get/support/and/help
+https://[website]/reach/out/to/us

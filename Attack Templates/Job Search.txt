@@ -1,0 +1,15 @@
+https://search-job-openings-careers.[website]/search
+https://upload-your-resume-here.[website]/resume
+https://track-your-job-applications.[website]
+https://[website]/?search-job-openings-careers
+https://[website]/?upload-your-resume-here
+https://[website]/?www.jobstreet.com
+https://www.jobstreet.com.[website]
+https://www.linkedin.com.[website]
+https://www.indeed.com.[website]
+https://[website]/www/glassdoor/com
+https://[website]/www/linkedin/com
+https://[website]/www/jobstreet/com
+https://[website]/search/job/openings/careers
+https://[website]/upload/your/resume/here
+https://[website]/track/your/job/applications
