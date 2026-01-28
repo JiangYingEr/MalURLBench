@@ -1,0 +1,5 @@
+torch: 2.9.0+cu128
+cuda available: True
+cuda version: 12.8
+bf16 supported: True
+gpu: NVIDIA GeForce RTX 5090
