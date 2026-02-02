@@ -22,3 +22,6 @@ We find that many LLMs are hard to distinguish malicious URLs. We infere that **
 <p align="center">
   <img src="result.png" width="800"/>
 </p>
+
+# Defense: URLGuard
+Based on our analysis, the vulnerability of LLMs lies in that they lack enough adversarial training data, which is rare on the Internet. To this end, we fine-tune a lightweight model based on LLama2-7B. The results show that it significantly improves LLM's resilience.
