@@ -25,3 +25,14 @@ We find that many LLMs are hard to distinguish malicious URLs. We infere that **
 
 # Defense: URLGuard
 Based on our analysis, the vulnerability of LLMs lies in that they lack enough adversarial training data, which is rare on the Internet. To this end, we fine-tune a lightweight model based on LLama2-7B. The results show that it significantly improves LLM's resilience.
+
+# Citation
+
+This paper has been accepted by ACL 2026. If you find our work helpful, please consider citing:
+
+    @article{kong2026malurlbench,
+      title={MalURLBench: A Benchmark Evaluating Agents' Vulnerabilities When Processing Web URLs},
+      author={Kong, Dezhang and Wu, Zhuxi and Liu, Shiqi and Tan, Zhicheng and Lu, Kuichen and Li, Minghao and Liu, Qichen and Chu, Shengyu and Xu, Zhenhua and Liu, Xuan and others},
+      journal={arXiv preprint arXiv:2601.18113},
+      year={2026}
+    }
