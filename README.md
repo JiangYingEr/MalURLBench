@@ -36,3 +36,15 @@ This paper has been accepted by ACL 2026. If you find our work helpful, please c
       journal={arXiv preprint arXiv:2601.18113},
       year={2026}
     }
+
+    @inproceedings{kong-etal-2026-malurlbench,
+    title = "{M}al{URLB}ench: A Benchmark Evaluating Agents' Vulnerabilities When Processing Web {URL}s",
+    author={Kong, Dezhang and Wu, Zhuxi and Liu, Shiqi and Tan, Zhicheng and Lu, Kuichen and Li, Minghao and Liu, Qichen and Chu, Shengyu and Xu, Zhenhua and Liu, Xuan and others},
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    year = "2026",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.716/",
+    doi = "10.18653/v1/2026.findings-acl.716",
+    pages = "14589--14601",
+    ISBN = "979-8-89176-395-1",
+    }  
